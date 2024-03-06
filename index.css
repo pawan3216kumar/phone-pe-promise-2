@@ -1,0 +1,43 @@
+body{
+    padding: 0px;
+    margin: 0%;
+    background-color:blueviolet ;
+    color: white;
+}
+
+.box{
+    height: 500px;
+    width: 350px;
+    background-color: #fff;
+    color: white;
+    border-radius: 20px;
+    justify-content: center;
+    margin-left: 30%;
+    margin-top: 20%;
+    text-align: center;
+    padding: 30px;
+}
+
+.box> img{
+    height: 50%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+    
+   
+
+}
+h1{
+    color: blueviolet;
+    font-size: 50px;
+}
+
+.btn{
+    height: 80px;
+    width: 150px;
+    background-color: blueviolet;
+    border-radius: 20px;
+    font-size: 20px;
+    border: none;
+    color: #fff;
+}
